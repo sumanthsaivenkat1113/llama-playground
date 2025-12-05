@@ -12,9 +12,8 @@ Experiment with AI prompts in real-time, and use it as a foundation for your AI-
 Check out the live app here: [Llama Playground](https://llamplayground.netlify.app/)
 
 Preview video:
-[![Watch the Llama Playground Demo](screenshots/App.png)](https://youtu.be/80u5t2CvHeo)
+[![Watch the Llama Playground Demo](screenshots/llama-react-demo-video.gif)](https://youtu.be/80u5t2CvHeo)
 *(Click the image to play the demo video)*
-
 
 ---
 
