@@ -17,6 +17,25 @@ Preview video:
 
 ---
 
+## 📝 Medium Blog Reference
+
+I have written a **step-by-step guide** explaining how I built this app, integrated Hugging Face LLaMA API, and structured the React project:
+
+**“How I Integrated Hugging Face LLaMA API into a React App – A Complete Developer Guide”**  
+Read it here: [Medium Blog](https://medium.com/@gunjisumanthsaivenkat/how-i-integrated-hugging-face-llama-api-into-a-react-app-a-complete-developer-guide-4ebc6501015b)
+
+This blog covers:
+
+* Setting up a React + Vite project for AI apps  
+* Creating custom hooks for API requests (`useLlama`)  
+* Integrating Hugging Face Inference API for chat completions  
+* Frontend-only approach with environment variables for security  
+* Clean folder structure and modular code organization  
+* Tips for deployment and future enhancements  
+
+---
+
+
 ## 🚀 Why Llama Playground?
 
 * Lightweight, minimal, and fast
